@@ -8,7 +8,7 @@ date_format: "ordinal"
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
-author: Chauby
+author: HeJie
 organization: XX
 organization_url: http://www.google.com
 github_username: firefishmoon
@@ -68,7 +68,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: chauby/chauby.github.io
+repository: firefishmoon/firefishmoon.github.io
 
 # Search
 simple_jekyll_search:
@@ -77,5 +77,5 @@ simple_jekyll_search:
 
 # Analytics
 google:
-    analytics_id: UA-80669434-1
+    analytics_id: UA-80669434-123
 github: [metadata]
