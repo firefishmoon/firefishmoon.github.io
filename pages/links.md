@@ -8,7 +8,3 @@ menu: Links
 permalink: /links/
 ---
 
-## links
-- [UESTC](http://www.uestc.edu.cn)
-
-## Public pages

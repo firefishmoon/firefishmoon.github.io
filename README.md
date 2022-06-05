@@ -1,4 +1,4 @@
-# 沙漏
+# HJ's blog
 
-我的个人博客：<https://chauby.github.io>，欢迎 Star 和 Fork。
+This blog is copy from ：<https://chauby.github.io>
 
