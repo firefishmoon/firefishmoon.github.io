@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 一种邻接表的实现方式
-categories: Blog
+categories: [Blog]
 description: 一种邻接表的实现方式
 keywords: 数据结构, 无向图
 ---
